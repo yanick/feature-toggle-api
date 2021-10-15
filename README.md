@@ -414,7 +414,7 @@ With this you don't have to waste your time with debugging the visibility state.
 
 ## API-Description
 ### Constructor
- - 1 paramter; must be an object; optional;
+ - 1 parameter; must be an object; optional;
  - all parameters _not_ starting with an _ are visibilityrules
  - all parameters starting with an _ are _not_ visibilityrules, but configuration for the api
  - possible configuration settings:
